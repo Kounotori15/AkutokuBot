@@ -43,4 +43,4 @@ async def on_message(message):
             await client.send_message(message.channel, m)
     
 
-client.run("DISCORD_BOT_TOKEN")
+client.run(DISCORD_BOT_TOKEN)
