@@ -43,4 +43,4 @@ async def on_message(message):
             await client.send_message(message.channel, m)
     
 
-client.run('NTE0MzYxNTY4MDQ2MDg4MjAz.DtVeWw.CLQjheofMHcYTcJDDt-x8I4Sc-Y')
+client.run(DISCORED_BOT_TOKEN)
